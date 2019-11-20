@@ -23,4 +23,4 @@ async def on_message(message):
         await message.channel.send(sovietmsg)
 
 
-client.run('NjQ2NTY2NDMwOTgwMDQ2ODQ4.XdVL1w.nYP42XNj0vUnb1uBceBnM1kh0j0')
+client.run('TOKEN')
